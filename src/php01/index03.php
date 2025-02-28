@@ -1,0 +1,25 @@
+<?php
+$item = "JavaScript";
+$item = "PHP";
+$item = "JavaScript";
+echo "<br />";
+echo $item;
+echo 20;
+echo "こんにちは";
+echo "<br />";
+const FELANGUAGE = "Vue.js";
+echo FELANGUAGE;
+echo "<br />";
+$name1 = "Tanaka";
+$last_name = "Yamada";
+$first_name = "Saburo";
+echo $name1 . "Jiro";
+echo "<br />";
+echo $last_name . $first_name;
+echo "<br />";
+$name = "Tanaka";
+$last_name1 = "Yamada";
+$first_name1 = "Saburo";
+echo $name . "Jiro";
+echo "<br />";
+echo $last_name1 . $first_name1;
